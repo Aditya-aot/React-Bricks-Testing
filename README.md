@@ -1,4 +1,4 @@
-https://aditya-three.vercel.app/
+https://www.sketchadi.com/
 
 # React Bricks starter with Next.js with Tailwind CSS and React Bricks UI
 
